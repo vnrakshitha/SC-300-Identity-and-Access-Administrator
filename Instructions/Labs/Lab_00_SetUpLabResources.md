@@ -38,3 +38,11 @@ The tasks in this exercise and the exercises in this learning path require you t
 1. Refresh the browser until you see Azure AD Premium P2 under the organization name. It may take a couple of minutes.
 
 1. You may need to sign out and sign back into Microsoft Azure if you encounter any problems with expected features not being available.
+
+---
+# EXECUTION
+
+## Results
+## Observations 
+## Challenges/Issues
+## Notes
