@@ -43,6 +43,8 @@ The tasks in this exercise and the exercises in this learning path require you t
 # EXECUTION
 
 ## Results
+![Sample screenshot image](./media/configure-platforms.png)
+
 ## Observations 
 ## Challenges/Issues
 ## Notes
